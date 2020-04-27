@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">imc</string>
+
+    <string name="peso">Peso</string>
+    <string name="altura">Altura</string>
+    <string name="calcular">Calcular</string>
+    <string name="mensagem">Mensagem</string>
+    <string name="imc">IMC</string>
+
+    <string name="menor16">Magreza grave</string>
+    <string name="menor17">Magreza moderada</string>
+    <string name="menor185">Magreza leve</string>
+    <string name="menor25">Saudável</string>
+    <string name="menor30">Sobrepeso</string>
+    <string name="menor35">Obesidade Grau I</string>
+    <string name="menor40">Obsidade Grau II</string>
+    <string name="maiorigual40">Obesidade Grau III</string>
+</resources>
