@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">jogadores</string>
+    <string name="titulo">Campeonato Brasileiro</string>
+    <string name="email">E-mail</string>
+    <string name="senha">Senha</string>
+    <string name="entrar">Entrar</string>
+
+    <string name="times">Times</string>
+    <string name="jogadores">Jogadores</string>
+</resources>
