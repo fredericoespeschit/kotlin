@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">autenticacao</string>
+    <string name="title">Autenticação</string>
+    <string name="email">E-mail</string>
+    <string name="password">Senha</string>
+    <string name="login">Entrar</string>
+
+    <string name="states">Lista de Estados</string>
+</resources>
