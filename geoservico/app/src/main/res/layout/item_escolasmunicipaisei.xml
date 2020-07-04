@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/nome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="12dp"
+        android:layout_marginTop="16dp"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/regional"
+        android:layout_below="@+id/nome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="12dp"
+        android:layout_marginTop="16dp"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/instancia"
+        android:layout_below="@+id/regional"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="12dp"
+        android:layout_marginTop="16dp"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/logradouro"
+        android:layout_below="@+id/instancia"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="12dp"
+        android:layout_marginTop="16dp"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/complemento"
+        android:layout_below="@+id/logradouro"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="12dp"
+        android:layout_marginTop="16dp"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/bairro"
+        android:layout_below="@+id/complemento"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="12dp"
+        android:layout_marginTop="16dp"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/tipoLogradouro"
+        android:layout_below="@+id/bairro"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="12dp"
+        android:layout_marginTop="16dp"
+        android:textSize="20sp" />
+</RelativeLayout>

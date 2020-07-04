@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/descricao"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="12dp"
+        android:layout_marginTop="16dp"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/link_site_rede_social"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/descricao"
+        android:layout_marginLeft="12dp"
+        android:layout_marginTop="16dp"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/ref_localizacao"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/link_site_rede_social"
+        android:layout_marginLeft="12dp"
+        android:layout_marginTop="16dp"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/id_atrativo_turistico"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ref_localizacao"
+        android:layout_marginLeft="12dp"
+        android:layout_marginTop="16dp"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/endereco"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/id_atrativo_turistico"
+        android:layout_marginLeft="12dp"
+        android:layout_marginTop="16dp"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/categoria"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/endereco"
+        android:layout_marginLeft="12dp"
+        android:layout_marginTop="16dp"
+        android:textSize="20sp" />
+</RelativeLayout>
+
+
